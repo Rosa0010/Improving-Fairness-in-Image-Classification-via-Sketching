@@ -1,11 +1,6 @@
 numpy
-os
 pandas
-skimage
-argparse
+scikit-image
 torch
 torchvision
-timeit
 opencv-python
-shutil
-csv
